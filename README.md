@@ -1,3 +1,3 @@
-# TodoNative
+# Todo app
 
-Basic React Native TODO app using manual state management
+React Native todo app
